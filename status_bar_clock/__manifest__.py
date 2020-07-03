@@ -11,7 +11,7 @@
     'author': "Aktiv Software",
     'license': 'AGPL-3',
     'website': "http://www.aktivsoftware.com",
-    'category': 'Web',
+    'category': 'Extra Tools',
     'version': '10.0.1.0.0',
     'data': [
         'views/res_company_view.xml',
